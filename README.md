@@ -1,16 +1,28 @@
-### Hi there 👋
+### Olá, meu nome é Pedro Junio 👋🏽
 
-<!--
-**pedrofjduarte/pedrofjduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre Mim
+* Juiz de Fora - MG
+* Analista de Testes de Software
+* Graduando em Sistemas de Informação
 
-Here are some ideas to get you started:
+<div> 
+    <a href="https://www.linkedin.com/in/pedrofjduarte/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:pedrofjduarte@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://api.whatsapp.com/send?phone=5532999114725" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+     <a href="#">
+            <img
+                align="center"
+                height="160em"
+                src="https://github-readme-stats.vercel.app/api?username=pedrofjduarte&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=vue-dark&border_radius=10&include_all_commits=true&count_private=true&hide_border=true"
+            />
+        </a>
+        <a href="#">
+            <img 
+               align="center"
+               height="160em"
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofjduarte&show_icons=true&theme=vue-dark&border_radius=10&include_all_commits=true&count_private=true&layout=compact&hide_border=true" />
+        </a>
+</div>
