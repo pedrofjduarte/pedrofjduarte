@@ -15,14 +15,14 @@
      <a href="#">
             <img
                 align="center"
-                height="180em"
+                height="140em"
                 src="https://github-readme-stats.vercel.app/api?username=pedrofjduarte&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=vue-dark&border_radius=10&include_all_commits=true&count_private=true&hide_border=true"
             />
         </a>
         <a href="#">
             <img 
                align="center"
-               height="180em"
+               height="140em"
                src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofjduarte&show_icons=true&theme=vue-dark&border_radius=10&include_all_commits=true&count_private=true&layout=compact&hide_border=true" />
         </a>
 </div>
